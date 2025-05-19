@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730636107 source:d:\ppi\easyform\b-tree\divide&conquer_problems\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
